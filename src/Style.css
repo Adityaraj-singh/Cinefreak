@@ -1,0 +1,17 @@
+.container1 {
+  height: "1000px";
+  width: "100%";
+
+  backdrop-filter: blur(8px);
+  z-index: 0;
+}
+
+.routers {
+  z-index: 1;
+  position: absolute;
+}
+
+.title {
+  color: red;
+  z-index: 10;
+}
